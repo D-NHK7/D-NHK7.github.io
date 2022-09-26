@@ -1,18 +1,18 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: Roche's limit
+SEOTitle: 我若星华宇宙，众生万物之地。
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+description: Zwei Dinge erfuellen das Gemuet mit immer neuer und zunehmender Bewunderung und Ehrfurcht,je oefter und anhaltender sich das Nachdenken damit beschaeftigt:der bestirnte Himmel ueber mir und das moralische Gesetz in mir.
+keyword: 有两种东西是无限的，宇宙和人类的愚蠢。————阿尔伯特.爱因斯坦
+url: "https://D-NHK7.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/D-NHK7/D-NHK7.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
